@@ -1,4 +1,4 @@
-# hack.local x = library:CreateWindow("Hack")
+local x = library:CreateWindow("Hack")
 
 local b = x:CreateFolder("local-player")
 
